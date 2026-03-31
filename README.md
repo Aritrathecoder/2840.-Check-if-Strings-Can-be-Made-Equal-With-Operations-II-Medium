@@ -1,7 +1,7 @@
 2840. Check if Strings Can be Made Equal With Operations II
 Medium
 Topics
-premium lock icon
+premium lock icons
 Companies
 Hint
 You are given two strings s1 and s2, both of length n, consisting of lowercase English letters.
